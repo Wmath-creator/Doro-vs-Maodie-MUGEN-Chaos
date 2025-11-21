@@ -1,0 +1,23 @@
+{
+  "short_name": "DoroVsMaodie",
+  "name": "Doro vs Maodie: MUGEN Chaos",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2585/2585193.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2585/2585193.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111111",
+  "background_color": "#111111",
+  "orientation": "landscape"
+}
